@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient(to right, black, white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1,
+h2 {
+    color: white !important;
+}
+
+.container {
+    text-align: center;
+}
+
+.btn {
+    padding: 10px 20px;
+}
